@@ -16,9 +16,7 @@ Skills:  REACT / JS / HTML / CSS
 [<img src='https://www.kindpng.com/picc/m/336-3367824_cloud-network-logo-png-transparent-png.png' alt='website' height='20'>](https://portfolio-ec16e.web.app/)  
 
 ##### Languages and Tools:
-<a href="https://github.com/MofasserHossain">
     <img align="left" alt="html" width="22px" title="Visual Studio Code" src="https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg" style="max-width: 100%;">
-</a>
 
 ![Profile views](https://gpvc.arturio.dev/Ruman-Islam)  
 
