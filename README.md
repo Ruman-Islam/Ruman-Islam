@@ -55,8 +55,6 @@ A self-motivated, ambitious, and enthusiastic web designer and developer highly 
 
 <br/> <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruman-Islam&show_icons=true&count_private=true)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruman-Islam&show_icons=true&count_private=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruman-Islam&show_icons=true&count_private=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruman-Islam)](https://github.com/anuraghazra/github-readme-stats)
