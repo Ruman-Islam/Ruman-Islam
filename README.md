@@ -10,7 +10,7 @@ Skills:  REACT / JS / HTML / CSS
 - 📫 How to reach me: rumanislam0429@gmail.com 
 - ⚡ Fun fact: I love to Explore the world 
 
-
+#### Connect with me:
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ruman-islam-6a567016a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/zayedkhan.ruman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jawad.ruman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18084019/ruman-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-ec16e.web.app/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ruman-Islam)](https://github.com/ryo-ma/github-profile-trophy)
