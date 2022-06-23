@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Ruman Islam
 #### Front-end Developer
-![Front-end Developer](https://media-exp1.licdn.com/dms/image/C5616AQFkE3875BDiOA/profile-displaybackgroundimage-shrink_350_1400/0/1654707301069?e=1661385600&v=beta&t=EFHbwUUgAmK8NkesQzpmcJ8_NoLOSHFbuG2WuYnqpKE)
 
 A self-motivated, ambitious, and enthusiastic web designer and developer highly interested in JavaScript, HTML5, CSS3, and front-end web development with modern web tech like React.js.
 
