@@ -1,14 +1,14 @@
 ![Profile views](https://gpvc.arturio.dev/Ruman-Islam)  
 
-### Hi there 👋, I'm <a href="">Ruman Islam</a>
-#### Front-end Developer
+# Hi there, I'm <a href="">Ruman Islam</a> 👋
+## 😍😍 Front-end Developer 😍😍
 
 A self-motivated, ambitious, and enthusiastic web designer and developer highly interested in JavaScript, HTML5, CSS3, and front-end web development with modern web tech like React.js.
 
 - 🔭 I’m currently working on MERN Stack Project 
 - 🌱 I’m currently learning learning everything 🤣 
+- ⚡ Fun fact: I love to Explore the world
 - 📫 How to reach me: rumanislam0429@gmail.com 
-- ⚡ Fun fact: I love to Explore the world 
 
 #### Connect with me:
 [<img src='https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ruman-islam-6a567016a//)
