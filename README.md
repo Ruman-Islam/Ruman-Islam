@@ -1,9 +1,9 @@
+![Profile views](https://gpvc.arturio.dev/Ruman-Islam)  
+
 ### Hi there 👋, I'm Ruman Islam
 #### Front-end Developer
 
 A self-motivated, ambitious, and enthusiastic web designer and developer highly interested in JavaScript, HTML5, CSS3, and front-end web development with modern web tech like React.js.
-
-![Profile views](https://gpvc.arturio.dev/Ruman-Islam)  
 
 - 🔭 I’m currently working on MERN Stack Project 
 - 🌱 I’m currently learning learning everything 🤣 
@@ -25,7 +25,11 @@ A self-motivated, ambitious, and enthusiastic web designer and developer highly 
 <a href="">
     <img align="left" alt="html" width="17px" title="CSS3" src="https://raw.githubusercontent.com/prosany/prosany/main/images/css-3.svg" style="max-width: 100%;">
 </a>
+<a href="">
+    <img align="left" alt="html" width="22px" title="JavaScript" src="https://raw.githubusercontent.com/prosany/prosany/main/images/javascript.svg" style="max-width: 100%;">
+</a>
 
+<br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruman-Islam&show_icons=true&count_private=true)  
 
