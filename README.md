@@ -15,6 +15,11 @@ Skills:  REACT / JS / HTML / CSS
 [<img src='https://camo.githubusercontent.com/f8bcf3653634baab9e8dd74834fc4ef118c31e7d1805024d4d76aaba6369656b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d466f6c6c6f772d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/zayedkhan.ruman) 
 [<img src='https://www.kindpng.com/picc/m/336-3367824_cloud-network-logo-png-transparent-png.png' alt='website' height='20'>](https://portfolio-ec16e.web.app/)  
 
+##### Languages and Tools:
+<a href="https://github.com/MofasserHossain">
+    <img align="left" alt="html" width="22px" title="Visual Studio Code" src="https://raw.githubusercontent.com/prosany/prosany/main/images/visual-studio-code.svg" style="max-width: 100%;">
+</a>
+
 ![Profile views](https://gpvc.arturio.dev/Ruman-Islam)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruman-Islam&show_icons=true&count_private=true)  
