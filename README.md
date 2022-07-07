@@ -6,7 +6,7 @@
 A self-motivated, ambitious, and enthusiastic web designer and developer highly interested in JavaScript, HTML5, CSS3, and front-end web development with modern web tech like React.js.
 
 - 🔭 I’m currently working on MERN Stack Project 
-- 🌱 I’m currently learning learning everything 🤣 
+- 🌱 I’m currently learning everything 🤣 
 - ⚡ Fun fact: I love to Explore the world
 - 📫 How to reach me: rumanislam0429@gmail.com 
 
