@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Ruman-Islam)  
 
 # Hi there, I'm <a href="">Ruman Islam</a> 👋
-## 😍😍 Front-end Developer 😍😍
+## 😍😍 MERN Stack Developer 😍😍
 
 A self-motivated, ambitious, and enthusiastic web designer and developer highly interested in JavaScript, HTML5, CSS3, and front-end web development with modern web tech like React.js.
 
